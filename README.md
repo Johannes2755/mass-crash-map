@@ -34,7 +34,7 @@ We downloaded, cleaned, and merged data from public sources to make it easier to
 |---|---|---|
 | [Mass GeoDOT Open Data Portal](https://geodot-massdot.hub.arcgis.com/pages/open-data-portal) | Statewide | [ArcGIS FeatureServer REST API](https://gis.crashdata.dot.mass.gov/arcgis/rest/services/MassDOT) |
 | Sources coming soon |  |  |
-| [City of Boston Vision Zero](https://data.boston.gov/organization/vision-zero-boston-program) | Boston | Boston Open Data (CKAN datastore) |
+| [City of Boston Vision Zero (2 datasets: crashes with reported injuries, and crashes with fatalities)](https://data.boston.gov/organization/vision-zero-boston-program) | Boston | Boston Open Data (CKAN datastore) |
 | [Cambridge Police Department Crash Data - Updated (quarterly, more detail)](https://data.cambridgema.gov/Public-Safety/Police-Department-Crash-Data-Updated/gb5w-yva3) | Cambridge | Cambridge Open Data (Socrata) |
 | [CPD Crash Log (daily, less detail) ](https://data.cambridgema.gov/Public-Safety/CPD-Crash-Log/h6fp-bp8s/about_data) | Cambridge | Cambridge Open Data (Socrata) |
 | [Somerville Police Data Crashes](https://data.somervillema.gov/Public-Safety/Police-Data-Crashes/mtik-28va/about_data) | Somerville | Somerville Open Data (Socrata) |
